@@ -17,3 +17,5 @@ shapely
 geopandas
 pyproj
 openpyxl
+dash
+plotly
