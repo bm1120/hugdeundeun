@@ -13,7 +13,7 @@
 
 # 분석 진행 과정
 ## 1. 데이터 크롤링
-- 해당 홈페이지(https://www.khug.or.kr/jeonse/web/s07/s070101.jsp)의 데이터를 크롤링해 테이블로 구성
+- 해당 홈페이지( https://www.khug.or.kr/jeonse/web/s07/s070101.jsp )의 데이터를 크롤링해 테이블로 구성
 - 세부 구조도 이미지와 입주일 정보를 위해 href id 생성
 - 해당 데이터의 주소를 이용해 좌표 데이터 생성(vworld api 사용 -> kakao api로 변경)
 
