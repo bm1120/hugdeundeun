@@ -19,3 +19,4 @@ pyproj
 openpyxl
 dash
 plotly
+aiohttp

@@ -13,4 +13,4 @@ RUN pip3 install -r requirements.txt
 
 EXPOSE 8888
 
-ENTRYPOINT ["jupyter", "lab","--ip=0.0.0.0","--allow-root"]
+ENTRYPOINT  ["jupyter", "lab", "--port=8888", "--no-browser", "--ip=0.0.0.0", "--allow-root", "--NotebookApp.token=''"]
